@@ -1,0 +1,1 @@
+SELECT kullanici_adi FROM musteri WHERE kullanici_adi = 'ebrar' AND sifre = '213';
